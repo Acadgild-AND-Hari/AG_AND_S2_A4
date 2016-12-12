@@ -1,7 +1,7 @@
 package com.hari.aag.hideandseek;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 
 public class HideAndSeekActivity extends AppCompatActivity {
 
