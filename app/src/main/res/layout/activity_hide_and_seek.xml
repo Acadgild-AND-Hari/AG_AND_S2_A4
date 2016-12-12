@@ -25,7 +25,8 @@
             android:src="@drawable/monkey" />
 
         <Button
-            android:layout_width="250dp"
+            android:id="@+id/hideAndSeekBtn"
+            android:layout_width="@dimen/btn_width"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:text="@string/btn_hide" />
